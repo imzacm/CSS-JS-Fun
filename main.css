@@ -1,0 +1,27 @@
+#topbar {
+  width: 100%;
+  position: fixed;
+  height: 20px;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 3px;
+}
+
+#topbar a {
+  color: #E2E2E2;
+}
+
+#mainBody {
+  width: 100%;
+  margin-top: 21px;
+  float: right;
+  color: #E2E2E2;
+}
+
+body {
+  background-color: #393939;
+}
+
+h1,h2 {
+  color: #FF5A09;
+}
